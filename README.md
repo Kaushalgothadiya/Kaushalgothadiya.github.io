@@ -6,7 +6,7 @@
 - B.E., Computer | Gandhinagar Institute of Technology (_July 2023_)								       		
 
 ## Work Experience
-**Salesforce Developer Trainee @ Exprosoft LLP (_July 2023 - December 2023_)**
+**Salesforce Developer Trainee @ Expro softech LLP (_July 2023 - December 2023_)**
 - Explored CRM platform and learned about the salesforce admin and development
 - Build a School management project  using Salesforce sales cloud, which can help to manage students' records, exam details, marks, and many other things that are connected with the school. 
 
